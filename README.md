@@ -22,4 +22,4 @@
 
 Program link: [Forage](https://www.theforage.com/virtual-internships/prototype/NjynCWzGSaWXQCxSX/Data-Science?ref=pvwgXjN2AFRTSaxut)
 
-Completion Certificate link: [Certificate](https://github.com/V3GiTO/British_Airways_Virtual_Internship/files/11304008/NjynCWzGSaWXQCxSX_British.Airways_pvwgXjN2AFRTSaxut_1682258251505_completion_certificate.pdf)
+Completion Certificate link: [Certificate](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/British%20Airways/NjynCWzGSaWXQCxSX_British%20Airways_pvwgXjN2AFRTSaxut_1682258251505_completion_certificate.pdf)
